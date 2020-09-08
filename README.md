@@ -1,4 +1,4 @@
-# insane
+# insane自动化测试接口压测工具
 
 一个 Go 编写的 http 并发测试客户端.
 
